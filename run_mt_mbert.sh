@@ -1,0 +1,1 @@
+python3 run_mt_mbert.py --dataset mosi --output_dir ./result/
